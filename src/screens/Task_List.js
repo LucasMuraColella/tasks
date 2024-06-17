@@ -24,7 +24,7 @@ export default class TaskList extends Component {
                     <Task description={"terminar TCC"}
                         estimate_at={new Date()}
                         done_at={new Date()} />
-                    <Task description={"apreesntar TCC"}
+                    <Task description={"apresentar TCC"}
                         estimate_at={new Date()}
                         done_at={null} />
                         
